@@ -4,3 +4,7 @@ source 'https://rubygems.org'
 gemspec
 
 gem 'rails', '~> 3.2.0'
+
+gem 'typescript-src', path: '../typescript-src-ruby' # temporary
+
+gem 'typescript-node', path: '../typescript-node-ruby' #'~> 0.0'
